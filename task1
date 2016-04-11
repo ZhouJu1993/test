@@ -19,3 +19,43 @@
 	</div>
 </body>
 </html>
+<!--task1.css-->
+.main{
+	width: 30%;
+	margin: 100px auto;
+}
+.img{
+	width: 32%;
+	background: orange;
+	margin: 1% 0 0 1%;
+	padding: 16% 0;
+	border-radius: 5%;
+	float: left;
+}
+#img3:hover{
+background: blue;
+}
+#img1:hover{
+background: blue;
+}
+#img2:hover{
+background: blue;
+}
+#img9:hover{
+background: blue;
+}
+#img4:hover{
+background: blue;
+}
+#img5:hover{
+background: blue;
+}
+#img6:hover{
+background: blue;
+}
+#img7:hover{
+background: blue;
+}
+#img8:hover{
+background: blue;
+}
